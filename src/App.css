@@ -6,3 +6,8 @@
 body {
     text-align: center;
 }
+
+.avatar {
+    margin-top: 1rem;
+    width: 50%;
+}
